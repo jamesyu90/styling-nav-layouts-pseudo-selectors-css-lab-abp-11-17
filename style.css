@@ -63,7 +63,11 @@ footer{
   padding-top: 20px;
   color: #CCC;
 }
-a:hover{
+nav a:hover{
   text-decoration: underline;
   color: #0056b3;
+}
+header h3{
+  float:left;
+  color: #868e96
 }
