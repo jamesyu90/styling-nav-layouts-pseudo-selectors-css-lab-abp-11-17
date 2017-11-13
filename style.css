@@ -78,7 +78,10 @@ div.questions a.btn:hover{
   padding: 0 40px 0 40px;
   line-height: 40px;
 }
-
+div.questions h4{
+  font-size: 30px;
+  margin-bottom: 10px;  
+}
 footer{
   border-top: 1px solid #ccc;
   margin-top: 80px;
