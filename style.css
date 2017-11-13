@@ -68,6 +68,7 @@ div.questions a.btn{
 }
 div.questions a.btn:hover{
   background-color: #0069d9;
+  padding: 0 20px 0 20px;
 }
 .jumbotron h1{
   font-size: 60px;
