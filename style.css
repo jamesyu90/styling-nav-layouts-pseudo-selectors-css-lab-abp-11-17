@@ -56,7 +56,14 @@ div.jumbotron {
   padding: 10px;
   text-align: center;
 }
-
+div.questions a.btn{
+  border-radius: 5px;
+  color: #FFF;
+  background-color: #007bff;
+  border-color: #007bff;
+  text-decoration: none;
+  padding: 0 20px 0 20px;
+}
 .jumbotron h1{
   font-size: 60px;
 }
